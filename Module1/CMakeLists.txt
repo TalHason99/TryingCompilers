@@ -1,0 +1,1 @@
+add_library(Module1 STATIC Module1.c)

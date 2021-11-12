@@ -1,1 +1,0 @@
-add_library(FirstModule1 STATIC FirstModule1.c)
